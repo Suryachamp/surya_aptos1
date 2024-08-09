@@ -1,0 +1,16 @@
+---
+profiles:
+  default:
+    network: Devnet
+    private_key: "0x09f44f1d506ee786d69acdc0adef7b4706d1ff7759dafeadd58ec75fa973ba77"
+    public_key: "0xa0de3021d170a31ba588baceb4f6276d8af0a4ace073d5c09c9daaa9e1138727"
+    account: 4a2fa47c521d13e16d9c4cbc2cc69866b1234dbb18be5729e49d07edd252af24
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
+  marketplace:
+    network: Devnet
+    private_key: "0x99e4220ddb2e84ced694b12b473a57c16fa706f94723b60e8cbae521fe9c3c63"
+    public_key: "0xd30ee73aaebcd7c445c4800c29375e38279f2e6fc34b2a61ef12c75d8fec08a0"
+    account: a1595d5060a7e0ac6243c2206081e81c6661a4e6ea299eb413d2054b4eaa4d2c
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
